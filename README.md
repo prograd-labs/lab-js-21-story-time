@@ -1,4 +1,4 @@
-![logo_face](https://www.focusacademy.in/images/face_logo.svg)
+<h1>ProGrad</h1>
 
 ## LAB | Text Adventure
 
